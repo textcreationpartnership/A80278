@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The complaint of the county of Brecon, against the undue proceedings of the sheriff of that county, and false return by him made of Edmond Jones as knight for that shire. With articles and exceptions, setting forth the incapacity of the said Edmond Jones, to sit as representative in Parliament, he being a compounded delinquent on record at Goldsmiths-Hall, and therefore not qualified according to the articles of the government, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80278</idno>
+            <idno type="STC">Wing C5615</idno>
+            <idno type="STC">ESTC R171473</idno>
+            <idno type="EEBO-CITATION">43663248</idno>
+            <idno type="OCLC">ocm 43663248</idno>
+            <idno type="VID">171994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2606:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The complaint of the county of Brecon, against the undue proceedings of the sheriff of that county, and false return by him made of Edmond Jones as knight for that shire. With articles and exceptions, setting forth the incapacity of the said Edmond Jones, to sit as representative in Parliament, he being a compounded delinquent on record at Goldsmiths-Hall, and therefore not qualified according to the articles of the government, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Contested elections --  Early works to 1800.</term>
+               <term>Contested elections --  Wales --  Brecon --  Early works to 1800.</term>
+               <term>Breconshire (Wales) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171994:1"/>
+            <pb n="1" facs="tcp:171994:1" rendition="simple:additions"/>
+            <head>The Complaint of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Brecon,</hi> againſt the undue pro<g ref="char:EOLhyphen"/>ceedings of the Sheriff of that County, and falſe return by him made of <hi>Edmond Jones</hi> as Knight for that Shire. With Articles and Exceptions, ſet<g ref="char:EOLhyphen"/>ting forth the incapacity of the ſaid <hi>Edmond Jones,</hi> to ſit as Repreſentative in Parliament, he being a Compounded Delinquent on Record at Gold<g ref="char:EOLhyphen"/>ſmiths-Hall, and therefore not qualified ac<g ref="char:EOLhyphen"/>cording to the Articles of the <hi>Government, &amp;c.</hi>
+            </head>
+            <div type="petition">
+               <head>To the right Honorable the Council of State to his High<g ref="char:EOLhyphen"/>neſs the Lord Protector, The humble Petition and Certificat of the Gentry, Free-holders, and Inhabitants of the County of <hi>Brecon.</hi>
+               </head>
+               <opener>
+                  <salute>Humbly Shewing,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat according to a Writ iſſued from his High<g ref="char:EOLhyphen"/>neſs the Lord Protector and his moſt honorable Council, for the free Election of two Knights to ſerve for this County of <hi>Brecon</hi> in the next inſuing Parliament to be held for this Common<g ref="char:EOLhyphen"/>wealth of <hi>England</hi> the third day of <hi>September</hi> next, and directed to <hi>John Williams</hi> High Sheriff of the ſaid Coun<g ref="char:EOLhyphen"/>ty;
+<pb n="2" facs="tcp:171994:2"/> we did upon Proclamation and Summons, in obedience to the ſaid Writ aſſemble our ſelves in the Caſtle Green of <hi>Brecon,</hi> up<g ref="char:EOLhyphen"/>on the 12 day of this inſtant <hi>July</hi> in all quiet and peaceable manner, and without any Armes, according to a private Order of Seſſions that day proclaimed for the purpoſe therein mentio<g ref="char:EOLhyphen"/>ned: And being perſons Qualified according to the Act of <hi>The Government of the Commonwealth,</hi> were divers wayes interrup<g ref="char:EOLhyphen"/>ted, menaced, and terrified from giving our Votes according to our Conſciences, and not enjoying a free Election according to his Highneſſe and his Councils Articles therein provided, Oc<g ref="char:EOLhyphen"/>caſioned chiefly by the ſaid Sheriff (not performing (as we con<g ref="char:EOLhyphen"/>ceive) his duty according to the 13th Article,) his Under Sheriff, Bayliffs, and Jaylors, and other Agents, (being with divers o<g ref="char:EOLhyphen"/>thers all armed, contrary to their own Order) who did dragg and hale many of the Inhabitants to vote for Mr. <hi>Edmond Jones,</hi> a perſon uncapable of ſuch Truſt, according to the 14th Article being in ſervice againſt the Parliament, and a Compounded De<g ref="char:EOLhyphen"/>linquent.</p>
+               <p>And notwithſtanding that we being allowed and thought fit to be a number competent for the Pole, in the behalf of another perſon capable of the ſaid Truſt, and qualified accor<g ref="char:EOLhyphen"/>ding to the ſaid Articles, were denied to put in our juſt excepti<g ref="char:EOLhyphen"/>ons made againſt divers perſons, who were in many reſpects un<g ref="char:EOLhyphen"/>capable and diſabled of Voting in his behalf, and not qualified according to the 18th Article: We were therefore conſtrained, both in reſpect of our Duty to God, obedience to his High<g ref="char:EOLhyphen"/>neſſe the Lord Protector, his Honourable Council, and Pub<g ref="char:EOLhyphen"/>lique good, and intereſt of our whole County, To declare and pro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> publiquely and unanimouſly againſt the undue Carriage and illegall Proceedings of the ſaid High Sheriff, <hi>Edmond Jones</hi> and their parties intereſſed therein; And do hereby make bold to certifie your Honour of the ſaid ille<g ref="char:EOLhyphen"/>gal Election of <hi>Edmond Iones,</hi> continuing our proteſtation againſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and humbly beſeeching your Honors due Exa<g ref="char:EOLhyphen"/>mination of their whole proceedings in the ſaid buſineſſe before he be approved, being ready to make due proof of the premiſes, ſubmitting our ſelves to your Honors
+<pb n="3" facs="tcp:171994:2"/> grave judgements for our Redreſſes herein in what man<g ref="char:EOLhyphen"/>ner ſhall ſeem fitteſt to your Honours for a new and free Election.</p>
+               <list>
+                  <item>
+                     <hi>Henry Williams</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Vaughan</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Herbert</hi>
+                  </item>
+                  <item>
+                     <hi>Morgan Iones</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Vaughan</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Vaughan</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Walbeife</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Powel</hi>
+                  </item>
+                  <item>
+                     <hi>Jeffery Lewes</hi>
+                  </item>
+                  <item>
+                     <hi>Roger Vaughan</hi>
+                  </item>
+                  <item>
+                     <hi>Iames Watkins</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Proſſer,</hi>
+                  </item>
+                  <item>
+                     <hi>William Powel</hi>
+                  </item>
+                  <item>
+                     <hi>Philip Williams</hi>
+                  </item>
+                  <item>
+                     <hi>Iames Williams</hi>
+                  </item>
+                  <item>
+                     <hi>Rich: Winter</hi>
+                  </item>
+                  <item>
+                     <hi>Walter Winter</hi>
+                  </item>
+                  <item>
+                     <hi>William Powel</hi>
+                  </item>
+                  <item>
+                     <hi>William Awbrey</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Iohn David</hi>
+                  </item>
+                  <item>
+                     <hi>Roger Lloyd</hi>
+                  </item>
+                  <item>
+                     <hi>Llew. Ienkins</hi>
+                  </item>
+                  <item>
+                     <hi>Llewes Watkins</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Parſons</hi>
+                  </item>
+                  <item>
+                     <hi>Walter Williams</hi>
+                  </item>
+                  <item>
+                     <hi>Jenkin William.</hi>
+                  </item>
+               </list>
+               <p>With hundreds more much aggrieved.</p>
+            </div>
+            <div type="exceptions">
+               <head>Exceptions againſt <hi>Edmund Jones</hi> 
+                  <abbr>Eſq</abbr> ſetting forth his incapaci<g ref="char:EOLhyphen"/>ty of being intrusted or elected as a Member of Parliament.</head>
+               <p n="1">1 FIrſt, For that he was notoriouſly diſaffected to the late Par<g ref="char:EOLhyphen"/>liament, for whom he never did any Service.</p>
+               <p n="2">2. That he deſerted his Chamber in <hi>Grays</hi>-Inne, and repaired in the time of the war to <hi>Oxford,</hi> and did there agitate for the Po<g ref="char:EOLhyphen"/>piſh Forces of <hi>Ragland</hi> and other Enemies of the Commonwealth, againſt the Parliament.</p>
+               <p n="3">3. That he during his aboad there, did much further the <hi>Iriſh</hi> Rebellions, by ſuing out Commiſſions for divers of the <hi>Iriſh</hi> Re<g ref="char:EOLhyphen"/>bels, and furthering their deſignes.</p>
+               <p n="4">4. That by that means he came into ſuch favour with the late King and the Earl of <hi>Worceſter,</hi> that he was nominated Comm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſi<g ref="char:EOLhyphen"/>oner of Array and Aſſociation for the County of <hi>Monmouth,</hi> where he did uſe his uttermoſt endeavours (being a Counſellor at Law) to draw the ſaid County to yield obedience thereto.</p>
+               <p n="5">5. That he was Treaſurer for the ſaid King in the ſaid County, and received ſeveral vaſt ſums of money, for which there is no ac<g ref="char:EOLhyphen"/>compt as yet given to the Commonwealth.</p>
+               <p n="6">6. That he did preſſe men, and raiſe horſes and arms for the late King and his Forces againſt the Parliament, and did thereby much advance the late Kings ſervice in thoſe parts.</p>
+               <p n="7">7. That he was a main agent and inſtrument for the Popiſh par<g ref="char:EOLhyphen"/>ty, and forces under the E. of <hi>Worceſter</hi> in the Gariſon of <hi>Ragland,</hi> being one in whom he ſo much confided, that he did convey the
+<pb n="4" facs="tcp:171994:3"/> ſaid Earl in a diſguiſe in ſafety through the Parliaments-Quarters and Gariſons.</p>
+               <p n="8">8. That for theſe and for other his delinquencies, the ſaid <hi>Ed<g ref="char:EOLhyphen"/>mond Iones</hi> was voted a delinquent by the Committee of the County of <hi>Monmouth,</hi> with whom he compounded at an under value for his perſonal Eſtate, and ſince likewiſe compounded at an under value with the Committee at <hi>Goldſmiths</hi> Hall for his reall Eſtate, by that means owning his ſaid Guilt, and ſubmitting to the Parliaments mercy for the ſaid offences, and therefore not capable (as we humbly conceive) to be a Member of Parliament, having ne<g ref="char:EOLhyphen"/>ver been in the ſervice of the Parliament, nor given any ſignal te<g ref="char:EOLhyphen"/>ſtimony of his affection to the preſent cauſe, further than by a Po<g ref="char:EOLhyphen"/>litick complyance with ſome in power in thoſe parts when the war was ended, by which means he hath avoided an accompt for the monies received by him as Treaſurer for the late King and by the favour of ſome perſons (to advance a particular intereſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> into ſome places both of honour and profit to him<g ref="char:EOLhyphen"/>ſelf, <hi>viz.</hi> to be <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>torney Gen. of <hi>Southwales,</hi> which he obtained by an Order of ſome of the Council of State, appointed by the laſt Paul<g ref="char:punc">▪</g> who were wholly ignorant of the ſaid <hi>Iones</hi> high delinquency, which place the ſaid <hi>Edmond Iones</hi> doth now hold and execute contrary to the ſeveral Acts and Ordinances of Parliament in that behalf made, wherein he hath miſcarried himſelf in many particu<g ref="char:EOLhyphen"/>lars, as will be ſufficiently proved, if this honourable Council think fit to direct a proceeding therein.</p>
+               <p>
+                  <hi>THeſe are to certifie whom it may concern, That</hi> Edmond Jones <hi>of</hi> Landsoy <hi>in the County of</hi> Monmouth <hi>Gent. paid into the Treaſury at</hi> Goldſmiths <hi>Hall the</hi> 20 <hi>of</hi> March 1646, <hi>the ſum of Thirty five pounds, three ſhillings, and four-pence in part, and the</hi> 7 <hi>of</hi> Feb. 1647 <hi>the like ſum of Thirty five pounds, three ſhillings, &amp; four-pence, being the laſt mo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ety, and in full of his Seventy pounds ſix ſhillings and eight-pence Fine, impoſed upon him as a Fine for his Delinquency againſt the Parliament. And for which monies paid as aforeſaid, was given him two Printed Receipts under the hands of</hi> Richard Waring, <hi>and</hi> Michael Herring, <hi>late Treaſurer at</hi> Goldſmiths <hi>Hall, which at the re<g ref="char:EOLhyphen"/>queſt of Sir</hi> Hen: Williams <hi>is certified this</hi> 25. <hi>of</hi> July 1654. <hi>by</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell>s.</cell>
+                        <cell>d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>35</cell>
+                        <cell>03</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>35</cell>
+                        <cell>03</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Fine paid,</cell>
+                        <cell>70</cell>
+                        <cell>06</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Michael Herring.</item>
+                        <item>Examined by <hi>Jo: Bateman.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="exceptions">
+               <pb n="5" facs="tcp:171994:3"/>
+               <head>Exceptions againſt the undue election of <hi>Edmond Jones</hi> 
+                  <abbr>Eſq</abbr> as Knight for the County of <hi>Brecon,</hi> ſeting forth the groſſe partiality of <hi>John Williams</hi> 
+                  <abbr>Eſq</abbr> higb Sheriff of the ſaid County, and the im<g ref="char:EOLhyphen"/>perfect, irregular, and falſe retorn by him wittingly and willingly m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de, contrary to the expreſſe letter of the Government of the Comonwealth of <hi>England, &amp;c.</hi> Publiſhed by his Highneſs the Lord Prote<g ref="char:EOLhyphen"/>ctors ſpecial Commandment.</head>
+               <p n="1">1 FIrſt we do aver, and ſhall be ready to prove and make good, That the ſaid High Sheriff hath born Arms for the late King, and otherwiſe hath ayded, adviſed, abetted, and aſſi<g ref="char:EOLhyphen"/>ſted in the late warr againſt the Parliament, and in that reſpect un<g ref="char:EOLhyphen"/>capable (as we humbly conceive) to make a retorn of Election of Members to ſit in Parliament.</p>
+               <p n="2">2. That the ſaid Sheriff out of his deſire to promote perſons of the like Principles as himſelf to the next Parliament, did by all ways and means labour to preingage divers of the Gentlemen and Freeholders of the ſaid County to give their votes for the ſaid <hi>Ed<g ref="char:EOLhyphen"/>mond Jones,</hi> And for that purpoſe did procure divers of them to ſubſcribe for the ſaid <hi>Iones</hi> three weeks before the election.</p>
+               <p n="3">3. That upon the day of election, being the 12 of <hi>July</hi> inſtant, the ſaid Sheriff did ſhew himſelf moſt groſly partiall on the behalf of the ſaid <hi>Jones,</hi> in theſe particulars following.</p>
+               <p>In admitting ſuch to vote for the ſaid <hi>Jones;</hi> who were not quallified, nor capable to vote, particularly, Mr. <hi>Edward Gwyn,</hi> who was for a long time a Captain in Armes for the late King, and as Colonel did lead the Country againſt the Parliaments For<g ref="char:EOLhyphen"/>ces: <hi>Watkin Vaughan</hi> 
+                  <abbr>Eſq</abbr> who was likewiſe Colonel for the ſaid late K<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g: <hi>Edward Williams</hi> 
+                  <abbr>Eſq</abbr> who as Colonel did lead his diviſio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt the Parliaments Forces, and vigorouſly acted as Commiſioner of Array for the King: <hi>Meredith Lewes</hi> 
+                  <abbr>Eſq</abbr>
+                  <pb n="6" facs="tcp:171994:4"/> who was an active Commiſſioner of Array for the late King: <hi>Thoma<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Williams</hi> 
+                  <abbr>Eſq</abbr> who was Judge Advocate, and in Armes for the late King: <hi>Thomas Vaughan</hi> an Officer under Colonel <hi>Price</hi> for the late King: <hi>John Roberts, Morgan Awbrey,</hi> and others liſted Souldiers under the ſaid Colonel <hi>Price, Mathew Herbert, Henry Herbert, Richard Vaughan, Richard Lewes, David Phillip, Iohn Lewes,</hi> and moſt of the reſt of the Electors retorned, have under the command of the ſaid perſons, or other<g ref="char:EOLhyphen"/>wiſe ayded, adviſed, aſſiſted and abetted in the late War againſt the Parliament, whereby they became uncapable to Vote in ele<g ref="char:EOLhyphen"/>ction of Members for Parliament (as we humbly conceive) accor<g ref="char:EOLhyphen"/>ding to the Government of the Commonwealth of <hi>England,</hi> &amp;c. and ſeveral other Acts and Ordinances of Parliament, having not been ſince in the ſervice of the Parliament, nor given any ſignal teſtimony of their good affection thereto.</p>
+               <p n="4">4. In admitting perſons to Vote for the ſaid <hi>Jones</hi> who had not a competent eſtate according to the direction and quallificati<g ref="char:EOLhyphen"/>on of the ſaid Government.</p>
+               <p n="5">5. In putting off and thruſting by ſuch Freeholders as came to the place to give their Vote for <hi>Henry Williams</hi> 
+                  <abbr>Eſq</abbr> though quallified to Vote.</p>
+               <p n="6">6. In hindering the Clerks appointed by <hi>Williams</hi> party to take notice of and except againſt ſuch perſons as were not qualli<g ref="char:EOLhyphen"/>fied and capable to vote for <hi>Jones.</hi>
+               </p>
+               <p n="7">7. In ſuffering all that were for <hi>Jones</hi> to be in Armes, and a<g ref="char:EOLhyphen"/>mongſt them the moſt notorious in the late Kings party in thoſe parts, and diſarming, threatning and diſcountenancing ſuch who were for <hi>Williams.</hi>
+               </p>
+               <p n="8">8. In permitting if not abetting divers perſons who were ar<g ref="char:EOLhyphen"/>med of <hi>Jones</hi> his party to lay violent hands and to hale in to their partie divers of thoſe who were for <hi>Williams,</hi> whereby they were forced to Vote for <hi>Jones.</hi>
+               </p>
+               <p n="9">9. For the better performance thereof, the ſaid <hi>Jones</hi> did o<g ref="char:EOLhyphen"/>penly threaten ſuch who Voted againſt him, and <hi>Ieffery Williams</hi> the Deputy Sheriff (whoſe name is retorned as an Elector) did o<g ref="char:EOLhyphen"/>penly ſay, that ſuch as would not give their Votes with <hi>Jones</hi> ſhould lie by it.</p>
+               <p n="10">10. <hi>William-Watkins</hi> (formerly Lieutenant under Major Gen.
+<pb n="7" facs="tcp:171994:4" rendition="simple:additions"/> 
+                  <hi>Harriſon</hi>) did lay hold on his Sword, and threatned to draw his Sword againſt <hi>William Iames,</hi> who was of <hi>Williams</hi> party, and had only a whip to defend himſelf, all which was done by the ſaid <hi>William Watkins</hi> becauſe the ſaid <hi>William Iames</hi> did appear and Vote on the behalf of Mr. <hi>Henry Williams.</hi>
+               </p>
+               <p n="11">11. The High Sheriff himſelf ſaid, that he was reſolved to re<g ref="char:EOLhyphen"/>torn <hi>Jones,</hi> though he were ſure to pay the Fine; who made good his Word therein, although the ſaid Mr. <hi>Williams</hi> had by far a greater number of voices, of Freeholders and others quali<g ref="char:EOLhyphen"/>fied and capable to elect Members for Parliament, and himſelf a perſon of known worth and integrity, The ſaid <hi>Jones</hi> being a Voted and compounded Delinquent of Record at Habberdaſhers and Goldſmiths Hall, as by a true Copy of his Petition, particu<g ref="char:EOLhyphen"/>lars and Fine paid, atteſted by the Clerks and Treaſurer, hereto annexed, may appear; Whereby the ſaid <hi>Edmond Jones</hi> is (as is humbly conceived) uncapable to be elected a Member for Parlia<g ref="char:EOLhyphen"/>ment, by the expreſſe Articles of the ſaid Government of the Commonwealth of <hi>England,</hi> and the ſeveral former Acts and Ordinances of Parliament.</p>
+               <p n="12">12. That the ſaid Sheriff in the Indenture retorned by him doth not mention the places of abode of the Electors ſubſcribed thereto, whereby they might be the better known and diſtingui<g ref="char:EOLhyphen"/>ſhed from thoſe that Voated for <hi>Henry Williams</hi> 
+                  <abbr>Eſq</abbr> and their delinquency and incapacity more clearly detected and diſcovered. The ſaid Sheriff having retorned the names of <hi>Morgan Iones, William Williams, Thomas Williams, Thomas Powell, Ienkin Williams, Walter Williams, Iames Watkins</hi> Gent. and others who Voted for <hi>Henry Williams,</hi> ſo that the retorn is imperfect and erroneous in that particular as is humbly conceived.</p>
+               <p n="13">13. That the ſaid Sheriff (to make a greater ſhew of appea<g ref="char:EOLhyphen"/>rance of perſons of quality on the behalf of the ſaid <hi>Iones,</hi> and the better to countenance his ſaid falſe retorn) did retorn <hi>William Morgan</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Edward Gwyn</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Walter Vaughan</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Ri<g ref="char:EOLhyphen"/>chard Games</hi> 
+                  <abbr>Eſq</abbr> as Electors, whereas in truth there are no ſuch perſons within the ſaid County of <hi>Brecon.</hi>
+               </p>
+               <p n="14">14. Mr. <hi>Edmond Iones</hi> came to the Poal and held it in his own hand and ſaid, he would be even with moſt of thoſe that Voted againſt him whatſoever it coſt him, ſo that all the Inhabitants
+<pb n="8" facs="tcp:171994:5"/> that Voted not for <hi>Iones</hi> are unſafe in their perſons and eſtates, if the ſaid <hi>Iones</hi> ſhould be admitted a Repreſentative for the ſaid County.</p>
+               <p n="15">15. <hi>William Morgan</hi> voting for <hi>Iones</hi> layed violent hands on <hi>Iohn Powel,</hi> and <hi>Llewelin Ienkins</hi> Gent. to force them from the place, and hinder them to give their voices for <hi>Henry Williams</hi> 
+                  <abbr>Eſq</abbr> for whom they did declare.</p>
+               <p n="16">16. <hi>Edward Williams</hi> a perſon that formerly aſſiſted, adviſed and abetted in the late war againſt the Parliament, and impeached in the charge of the Army as a Perſon uncapable of truſt for the Parliament, and now charged with apparant diſaffection; if not high Treaſon againſt his Highneſſe the Lord Protector, was per<g ref="char:EOLhyphen"/>mitted to ſtand by the Poal and not only to Vote for <hi>Iones,</hi> but alſo to affront; diſcourage, and diſcountenance ſuch as offered to Vote for Mr. <hi>Williams.</hi>
+               </p>
+               <p n="17">17. <hi>Howell Llewelin</hi> Servant to Col <hi>Iefferies</hi> who have been both in all the late wars againſt the Parliament, was permitted by the Sheriff and his Officers to dragg ſeveral perſons to Vote for <hi>Iones.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171994:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
